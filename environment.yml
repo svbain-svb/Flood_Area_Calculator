@@ -1,12 +1,14 @@
-name:Flood_Area_Calculator
+name: Flood_Area_Calculator
 channels:
-	- conda-forge
-	- defaults
+  - conda-forge
+  - defaults
 dependencies:
-	- python=3.9
-	- matplotlib
-	- cartopy
-	- notebook
-	- rasterio
-	- numpy
-	- pyepsg
+  - python=3.9
+  - matplotlib
+  - cartopy
+  - notebook
+  - rasterio
+  - numpy
+  - pyepsg
+  - pandas
+  - ipykernel
