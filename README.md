@@ -1,2 +1,2 @@
 # B01051807_Bain_EGM722_Programming_Project
-Python Tool for Calculating Flood Extent Area from Classified Raster Data
+The Flood Area Calculator is a tool designed to analyse a pre-processed binary flood mask raster and calculate flood extent statistics in the python programming language in a Jupyter Notebook.  It is intended to ingest individual or multiple binary flood mask rasters, check the coordinate reference system and output flood area statistics for each raster.  The results are output as a CSV file, a bar chart indicating Flooded Area in km2 and a map displaying the flooded areas on a basemap for visual interpretation.
